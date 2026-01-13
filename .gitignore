@@ -1,0 +1,10 @@
+.env
+.env.local
+node_modules/
+__pycache__/
+.vercel/
+dist/
+*.py[cod]
+.DS_Store
+.vscode/
+venv/
