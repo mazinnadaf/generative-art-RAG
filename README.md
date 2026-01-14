@@ -31,11 +31,9 @@ Unlike standard generators that just take a prompt, this system first searches a
 
 ---
 
-### Running Locally
-
-# Backend
+## Backend
 modal serve main_modal.py
 
-# Frontend
+## Frontend
 cd frontend
 npm run dev
